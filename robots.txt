@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lilygracethorns.github.io/Lily_Grace_Thorns/sitemap.xml

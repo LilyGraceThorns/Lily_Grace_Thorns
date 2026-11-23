@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lily_Grace Thorns",
+    "description": "",
+    "home_page_url": "https://lilygracethorns.github.io/Lily_Grace_Thorns",
+    "feed_url": "https://lilygracethorns.github.io/Lily_Grace_Thorns/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lily-Grace Thorns"
+    },
+    "items": [
+        {
+            "id": "https://lilygracethorns.github.io/Lily_Grace_Thorns/welcome-to-lily-grace-thorns/",
+            "url": "https://lilygracethorns.github.io/Lily_Grace_Thorns/welcome-to-lily-grace-thorns/",
+            "title": "Welcome to Lily Grace Thorns",
+            "summary": "Its more like a creative safe space at a time where creative expression deems itself in corporate environment and in our everyday life. authenticity has stop existing and everyone becomes one and the same in a society that has flattened itself into specific stereotypes where&hellip;",
+            "content_html": "\n  <p>\n    Its more like a creative safe space at a time where creative expression deems itself in corporate environment and in our everyday life. authenticity has stop existing and everyone becomes one and the same in a society that has flattened itself into specific stereotypes where even them cannot differentiate themselves between one another. \n<br>In a world where even creative expression has to look a certain way this is more like a blog type of page where I can freely express my creative ideas without trying to make them look a certain type of way simply trying to solve problems and express thoughts on  matters i find my attention drifting towards.\n<br>\n<br>Its purpose is for it to be  low pressure space where i can express myself creatively with my own personal projects ,thoughts and ideas created by the need to build something that express my own personal identity as an individual and at the same time being a fun creative dump space where i can experiment get better and hopefully inspire other creative individuals and provide a solution to creative burnouts while curing my own and making jobs that do not need to provide me some sort of income or look a certain way \n<br>\n<br>in a few words my own creative playground that consists a lot of my different thoughts, interests and personalities . and hopefully a \"nieche\" page that is not trying forcefully to be part of a pinterest board but simply differentiate from a flat and ai based society without that meaning that ai could/is not a massive tool  that should be used s help and not as the baseline \n<br>\n<br>Creative freedom — not every idea needs to be a finished product.\n  </p>",
+            "author": {
+                "name": "Lily-Grace Thorns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-22T22:30:52+02:00",
+            "date_modified": "2026-11-22T22:31:03+02:00"
+        }
+    ]
+}
